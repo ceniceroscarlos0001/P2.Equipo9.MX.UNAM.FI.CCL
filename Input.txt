@@ -1,0 +1,6 @@
+# kw id punct $
+# kw punct id $
+% id op num punct $
+% punct id op num $
+& id = id op id punct $
+& = id id op id punct $
